@@ -1,0 +1,6 @@
+console.log("Hi Netscape!")
+console.log("Hi Mocha!")
+console.log("Hi LiveScript!")
+console.log("Hi JavaScript!")
+console.log("Hi ECMAScript!")
+console.log("Hello JavaScript!")
